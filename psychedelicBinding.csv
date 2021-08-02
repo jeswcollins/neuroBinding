@@ -1,0 +1,1016 @@
+receptor,drug,value
+5-HT,LSD,11.13
+5-HT,6-F-DMT,10.14
+5-HT,DMT,9.83
+5-HT,2C-B,9.74
+5-HT,2C-E,9.47
+5-HT,5-MeO-MIPT,9.32
+5-HT,Psilocin,9.2
+5-HT,TMA,9.06
+5-HT,DPT,8.68
+5-HT,RR-2b,8.68
+5-HT,DOI,8.26
+5-HT,5-MeO-DMT,8.07
+5-HT,DOET,8.06
+5-HT,lisuride,7.99
+5-HT,2C-T-2,7.89
+5-HT,2C-B-fly,7.85
+5-HT,4C-T-2,7.43
+5-HT,5-MeO-DIPT,7.39
+5-HT,DOB,7.04
+5-HT,DIPT,6.39
+5-HT,DOM,6.38
+5-HT,Mescaline,6.23
+5-HT,TMA-2,5.86
+5-HT,Aleph-2,5.76
+5-HT,MDA,5.67
+5-HT,MEM,4.97
+5-HT,MDMA,3.64
+5-HT,Salvinorin A,0
+5-HT,cis-2a,ND
+5-HT,Ibogaine,ND
+5-HT,5-MeO-TMT,ND
+5-HT,SS-2c,ND
+5-HT,EMDT,ND
+5-HT,THC,ND
+5-HT,Morphine,ND
+5-HT2 ,2C-E,6.45
+5-HT2 ,2C-B,6.3
+5-HT2 ,DOI,6.14
+5-HT2 ,DOET,6.11
+5-HT2 ,4C-T-2,6.05
+5-HT2 ,2C-T-2,5.95
+5-HT2 ,DOB,5.94
+5-HT2 ,TMA-2,5.86
+5-HT2 ,DMT,5.8
+5-HT2 ,2C-B-fly,5.74
+5-HT2 ,LSD,5.64
+5-HT2 ,6-F-DMT,5.31
+5-HT2 ,Aleph-2,5.3
+5-HT2 ,Psilocin,5.19
+5-HT2 ,TMA,5.01
+5-HT2 ,DPT,4.97
+5-HT2 ,DOM,4.87
+5-HT2 ,cis-2a,4.6
+5-HT2 ,MEM,4.57
+5-HT2 ,MDA,4.54
+5-HT2 ,5-MeO-MIPT,4.48
+5-HT2 ,lisuride,4.08
+5-HT2 ,Mescaline,3.97
+5-HT2 ,5-MeO-DIPT,3.91
+5-HT2 ,SS-2c,3.77
+5-HT2 ,MDMA,3.64
+5-HT2 ,DIPT,3.48
+5-HT2 ,RR-2b,2.84
+5-HT2 ,5-MeO-DMT,1.96
+5-HT2 ,Salvinorin A,0
+5-HT2 ,Ibogaine,ND
+5-HT2 ,5-MeO-TMT,ND
+5-HT2 ,EMDT,ND
+5-HT2 ,THC,ND
+5-HT2 ,Morphine,ND
+5-HT2max,2C-E,4
+5-HT2max,2C-B,4
+5-HT2max,DOI,4
+5-HT2max,4C-T-2,4
+5-HT2max,2C-T-2,4
+5-HT2max,DOB,4
+5-HT2max,TMA-2,4
+5-HT2max,2C-B-fly,4
+5-HT2max,Aleph-2,4
+5-HT2max,Psilocin,4
+5-HT2max,TMA,4
+5-HT2max,DOM,4
+5-HT2max,MEM,4
+5-HT2max,MDA,4
+5-HT2max,Mescaline,3.97
+5-HT2max,6-F-DMT,3.93
+5-HT2max,DMT,3.91
+5-HT2max,5-MeO-DIPT,3.91
+5-HT2max,DPT,3.88
+5-HT2max,DOET,3.72
+5-HT2max,MDMA,3.64
+5-HT2max,LSD,3.54
+5-HT2max,DIPT,3.48
+5-HT2max,5-MeO-MIPT,3.32
+5-HT2max,lisuride,3.01
+5-HT2max,cis-2a,2.89
+5-HT2max,SS-2c,2.32
+5-HT2max,RR-2b,1.81
+5-HT2max,5-MeO-DMT,1.55
+5-HT2max,Salvinorin A,0
+5-HT2max,Ibogaine,ND
+5-HT2max,5-MeO-TMT,ND
+5-HT2max,EMDT,ND
+5-HT2max,THC,ND
+5-HT2max,Morphine,ND
+5-HT2A; 5-HT2C,DOI,5.28
+5-HT2A; 5-HT2C,2C-E,5.06
+5-HT2A; 5-HT2C,2C-B,4.87
+5-HT2A; 5-HT2C,DOET,4.86
+5-HT2A; 5-HT2C,LSD,4.71
+5-HT2A; 5-HT2C,4C-T-2,4.54
+5-HT2A; 5-HT2C,2C-T-2,4.4
+5-HT2A; 5-HT2C,DOB,4.39
+5-HT2A; 5-HT2C,TMA-2,4.29
+5-HT2A; 5-HT2C,DMT,4.28
+5-HT2A; 5-HT2C,2C-B-fly,4.11
+5-HT2A; 5-HT2C,cis-2a,3.72
+5-HT2A; 5-HT2C,6-F-DMT,3.57
+5-HT2A; 5-HT2C,Aleph-2,3.48
+5-HT2A; 5-HT2C,Psilocin,3.31
+5-HT2A; 5-HT2C,DPT,3.11
+5-HT2A; 5-HT2C,SS-2c,3.08
+5-HT2A; 5-HT2C,TMA,3.02
+5-HT2A; 5-HT2C,5-MeO-MIPT,3
+5-HT2A; 5-HT2C,DOM,2.78
+5-HT2A; 5-HT2C,lisuride,2.74
+5-HT2A; 5-HT2C,MEM,2.21
+5-HT2A; 5-HT2C,RR-2b,2.19
+5-HT2A; 5-HT2C,5-MeO-TMT,2.17
+5-HT2A; 5-HT2C,Ibogaine,2.16
+5-HT2A; 5-HT2C,MDA,2.15
+5-HT2A; 5-HT2C,EMDT,1.95
+5-HT2A; 5-HT2C,5-MeO-DMT,1.83
+5-HT2A; 5-HT2C,Mescaline,0
+5-HT2A; 5-HT2C,5-MeO-DIPT,0
+5-HT2A; 5-HT2C,MDMA,0
+5-HT2A; 5-HT2C,DIPT,0
+5-HT2A; 5-HT2C,Salvinorin A,0
+5-HT2A; 5-HT2C,THC,ND
+5-HT2A; 5-HT2C,Morphine,ND
+5-HT2A/Cmax,DOI,4
+5-HT2A/Cmax,2C-E,3.76
+5-HT2A/Cmax,DOET,3.72
+5-HT2A/Cmax,2C-B,3.69
+5-HT2A/Cmax,LSD,3.54
+5-HT2A/Cmax,TMA-2,3.42
+5-HT2A/Cmax,DMT,3.42
+5-HT2A/Cmax,4C-T-2,3.33
+5-HT2A/Cmax,DOB,3.23
+5-HT2A/Cmax,2C-T-2,3.18
+5-HT2A/Cmax,TMA,3.02
+5-HT2A/Cmax,2C-B-fly,2.93
+5-HT2A/Cmax,cis-2a,2.89
+5-HT2A/Cmax,lisuride,2.74
+5-HT2A/Cmax,6-F-DMT,2.58
+5-HT2A/Cmax,Psilocin,2.52
+5-HT2A/Cmax,Aleph-2,2.5
+5-HT2A/Cmax,5-MeO-MIPT,2.44
+5-HT2A/Cmax,DOM,2.36
+5-HT2A/Cmax,SS-2c,2.32
+5-HT2A/Cmax,DPT,2.31
+5-HT2A/Cmax,MEM,2.21
+5-HT2A/Cmax,5-MeO-TMT,2.17
+5-HT2A/Cmax,Ibogaine,2.16
+5-HT2A/Cmax,MDA,2.15
+5-HT2A/Cmax,EMDT,1.95
+5-HT2A/Cmax,RR-2b,1.63
+5-HT2A/Cmax,5-MeO-DMT,1.55
+5-HT2A/Cmax,Mescaline,0
+5-HT2A/Cmax,5-MeO-DIPT,0
+5-HT2A/Cmax,MDMA,0
+5-HT2A/Cmax,DIPT,0
+5-HT2A/Cmax,Salvinorin A,0
+5-HT2A/Cmax,THC,ND
+5-HT2A/Cmax,Morphine,ND
+5-HT1,LSD,7.1
+5-HT1,RR-2b,6.54
+5-HT1,TMA,6.52
+5-HT1,2C-B,6.35
+5-HT1,5-MeO-MIPT,6.26
+5-HT1,6-F-DMT,6.19
+5-HT1,5-MeO-DMT,6.07
+5-HT1,2C-E,6.06
+5-HT1,DPT,5.87
+5-HT1,Psilocin,5.81
+5-HT1,5-MeO-DIPT,5.49
+5-HT1,DMT,5.15
+5-HT1,lisuride,4.95
+5-HT1,2C-B-fly,4.92
+5-HT1,DOET,4.83
+5-HT1,Mescaline,4.79
+5-HT1,DIPT,4.72
+5-HT1,DOI,4.63
+5-HT1,2C-T-2,4.58
+5-HT1,DOM,3.48
+5-HT1,DOB,3.05
+5-HT1,4C-T-2,2.7
+5-HT1,MDA,2.38
+5-HT1,Aleph-2,1.82
+5-HT1,TMA-2,0
+5-HT1,MEM,0
+5-HT1,MDMA,0
+5-HT1,Salvinorin A,0
+5-HT1,cis-2a,ND
+5-HT1,SS-2c,ND
+5-HT1,5-MeO-TMT,ND
+5-HT1,Ibogaine,ND
+5-HT1,EMDT,ND
+5-HT1,THC,ND
+5-HT1,Morphine,ND
+5-HT1max,LSD,4
+5-HT1max,RR-2b,4
+5-HT1max,5-MeO-MIPT,4
+5-HT1max,5-MeO-DMT,4
+5-HT1max,DPT,4
+5-HT1max,5-MeO-DIPT,4
+5-HT1max,lisuride,4
+5-HT1max,DOET,4
+5-HT1max,DIPT,4
+5-HT1max,cis-2a,4
+5-HT1max,SS-2c,4
+5-HT1max,DMT,3.97
+5-HT1max,2C-B-fly,3.81
+5-HT1max,2C-B,3.71
+5-HT1max,6-F-DMT,3.66
+5-HT1max,Mescaline,3.61
+5-HT1max,2C-E,3.54
+5-HT1max,TMA,3.45
+5-HT1max,Psilocin,3.4
+5-HT1max,DOI,3
+5-HT1max,2C-T-2,2.84
+5-HT1max,DOM,2.75
+5-HT1max,MDA,2.38
+5-HT1max,4C-T-2,2.04
+5-HT1max,DOB,1.79
+5-HT1max,Aleph-2,1.02
+5-HT1max,TMA-2,0
+5-HT1max,MEM,0
+5-HT1max,MDMA,0
+5-HT1max,Salvinorin A,0
+5-HT1max,5-MeO-TMT,ND
+5-HT1max,Ibogaine,ND
+5-HT1max,EMDT,ND
+5-HT1max,THC,ND
+5-HT1max,Morphine,ND
+5-HT6; 5-HT7,6-F-DMT,5.52
+5-HT6; 5-HT7,5-MeO-TMT,5.39
+5-HT6; 5-HT7,LSD,5.32
+5-HT6; 5-HT7,DMT,5.16
+5-HT6; 5-HT7,EMDT,4.84
+5-HT6; 5-HT7,5-MeO-MIPT,4.82
+5-HT6; 5-HT7,cis-2a,4.63
+5-HT6; 5-HT7,5-MeO-DMT,4.59
+5-HT6; 5-HT7,Psilocin,3.98
+5-HT6; 5-HT7,2C-B,3.84
+5-HT6; 5-HT7,TMA,3.8
+5-HT6; 5-HT7,RR-2b,3.77
+5-HT6; 5-HT7,lisuride,3.72
+5-HT6; 5-HT7,DPT,3.56
+5-HT6; 5-HT7,SS-2c,3.46
+5-HT6; 5-HT7,2C-E,3.37
+5-HT6; 5-HT7,5-MeO-DIPT,3.03
+5-HT6; 5-HT7,DOI,3.01
+5-HT6; 5-HT7,DIPT,2.55
+5-HT6; 5-HT7,2C-T-2,2.43
+5-HT6; 5-HT7,MDA,2.41
+5-HT6; 5-HT7,DOM,2.2
+5-HT6; 5-HT7,4C-T-2,2.18
+5-HT6; 5-HT7,2C-B-fly,2.13
+5-HT6; 5-HT7,DOET,2.07
+5-HT6; 5-HT7,DOB,2.07
+5-HT6; 5-HT7,MEM,1.95
+5-HT6; 5-HT7,Aleph-2,1.3
+5-HT6; 5-HT7,Mescaline,0
+5-HT6; 5-HT7,TMA-2,0
+5-HT6; 5-HT7,MDMA,0
+5-HT6; 5-HT7,Salvinorin_A,0
+5-HT6; 5-HT7,THC,ND
+5-HT6; 5-HT7,Morphine,ND
+5-HT6; 5-HT7,Ibogaine,ND
+D1; D2; D3; D4; D5,LSD,5.65
+D1; D2; D3; D4; D5,cis-2a,5.58
+D1; D2; D3; D4; D5,6-F-DMT,5.27
+D1; D2; D3; D4; D5,lisuride,4.45
+D1; D2; D3; D4; D5,RR-2b,4.37
+D1; D2; D3; D4; D5,Psilocin,4.3
+D1; D2; D3; D4; D5,SS-2c,3.99
+D1; D2; D3; D4; D5,DPT,3.58
+D1; D2; D3; D4; D5,DMT,3.51
+D1; D2; D3; D4; D5,5-MeO-DMT,3.05
+D1; D2; D3; D4; D5,2C-E,2.95
+D1; D2; D3; D4; D5,4C-T-2,2.66
+D1; D2; D3; D4; D5,DIPT,2.56
+D1; D2; D3; D4; D5,5-MeO-MIPT,2.13
+D1; D2; D3; D4; D5,2C-B,2.05
+D1; D2; D3; D4; D5,2C-T-2,2.02
+D1; D2; D3; D4; D5,DOB,1.68
+D1; D2; D3; D4; D5,DOI,1.67
+D1; D2; D3; D4; D5,Aleph-2,1.41
+D1; D2; D3; D4; D5,5-MeO-TMT,0
+D1; D2; D3; D4; D5,EMDT,0
+D1; D2; D3; D4; D5,TMA,0
+D1; D2; D3; D4; D5,5-MeO-DIPT,0
+D1; D2; D3; D4; D5,MDA,0
+D1; D2; D3; D4; D5,DOM,0
+D1; D2; D3; D4; D5,DOET,0
+D1; D2; D3; D4; D5,MEM,0
+D1; D2; D3; D4; D5,Mescaline,0
+D1; D2; D3; D4; D5,TMA-2,0
+D1; D2; D3; D4; D5,MDMA,0
+D1; D2; D3; D4; D5,Salvinorin A,0
+D1; D2; D3; D4; D5,2C-B-fly,ND
+D1; D2; D3; D4; D5,Ibogaine,ND
+D1; D2; D3; D4; D5,THC,ND
+D1; D2; D3; D4; D5,Morphine,ND
+Dmax,DMT,3.51
+Dmax,cis-2a,3.46
+Dmax,Psilocin,3.37
+Dmax,LSD,3.16
+Dmax,lisuride,2.9
+Dmax,SS-2c,2.82
+Dmax,6-F-DMT,2.67
+Dmax,4C-T-2,2.66
+Dmax,DIPT,2.56
+Dmax,RR-2b,2.4
+Dmax,5-MeO-DMT,2.38
+Dmax,DPT,2.37
+Dmax,2C-E,2.27
+Dmax,5-MeO-MIPT,1.7
+Dmax,DOB,1.68
+Dmax,DOI,1.67
+Dmax,2C-B,1.6
+Dmax,2C-T-2,1.51
+Dmax,Aleph-2,1.41
+Dmax,5-MeO-TMT,0
+Dmax,EMDT,0
+Dmax,TMA,0
+Dmax,5-MeO-DIPT,0
+Dmax,MDA,0
+Dmax,DOM,0
+Dmax,DOET,0
+Dmax,MEM,0
+Dmax,Mescaline,0
+Dmax,TMA-2,0
+Dmax,MDMA,0
+Dmax,Salvinorin A,0
+Dmax,2C-B-fly,ND
+Dmax,Ibogaine,ND
+Dmax,THC,ND
+Dmax,Morphine,ND
+Adrenergic,lisuride,7.45
+Adrenergic,DOI,7.3
+Adrenergic,DMT,6.96
+Adrenergic,DPT,6.28
+Adrenergic,MDA,5.5
+Adrenergic,6-F-DMT,5.43
+Adrenergic,MDMA,5.34
+Adrenergic,DOM,5.3
+Adrenergic,Mescaline,4.95
+Adrenergic,TMA,4.49
+Adrenergic,DOET,4.38
+Adrenergic,2C-T-2,4.12
+Adrenergic,5-MeO-MIPT,4.1
+Adrenergic,DIPT,3.75
+Adrenergic,4C-T-2,3.67
+Adrenergic,5-MeO-DIPT,3.59
+Adrenergic,DOB,3.48
+Adrenergic,Aleph-2,3.13
+Adrenergic,2C-B-fly,2.66
+Adrenergic,Psilocin,2.32
+Adrenergic,5-MeO-DMT,2.05
+Adrenergic,MEM,0
+Adrenergic,TMA-2,0
+Adrenergic,cis-2a,ND
+Adrenergic,LSD,ND
+Adrenergic,SS-2c,ND
+Adrenergic,RR-2b,ND
+Adrenergic,2C-E,ND
+Adrenergic,2C-B,ND
+Adrenergic,5-MeO-TMT,ND
+Adrenergic,EMDT,ND
+Adrenergic,Salvinorin A,ND
+Adrenergic,Ibogaine,ND
+Adrenergic,THC,ND
+Adrenergic,Morphine,ND
+AdrenergicMax,Mescaline,4
+AdrenergicMax,lisuride,3.88
+AdrenergicMax,DOI,3.79
+AdrenergicMax,4C-T-2,3.67
+AdrenergicMax,MDA,3.6
+AdrenergicMax,DMT,3.53
+AdrenergicMax,DOM,3.38
+AdrenergicMax,TMA,3.36
+AdrenergicMax,6-F-DMT,3.24
+AdrenergicMax,MDMA,3.21
+AdrenergicMax,DPT,2.97
+AdrenergicMax,5-MeO-MIPT,2.85
+AdrenergicMax,Aleph-2,2.79
+AdrenergicMax,DIPT,2.68
+AdrenergicMax,5-MeO-DIPT,2.66
+AdrenergicMax,2C-T-2,2.56
+AdrenergicMax,DOET,2.4
+AdrenergicMax,DOB,2.11
+AdrenergicMax,2C-B-fly,1.79
+AdrenergicMax,5-MeO-DMT,1.57
+AdrenergicMax,Psilocin,1.57
+AdrenergicMax,MEM,0
+AdrenergicMax,TMA-2,0
+AdrenergicMax,cis-2a,ND
+AdrenergicMax,LSD,ND
+AdrenergicMax,SS-2c,ND
+AdrenergicMax,RR-2b,ND
+AdrenergicMax,2C-E,ND
+AdrenergicMax,2C-B,ND
+AdrenergicMax,5-MeO-TMT,ND
+AdrenergicMax,EMDT,ND
+AdrenergicMax,Salvinorin A,ND
+AdrenergicMax,Ibogaine,ND
+AdrenergicMax,THC,ND
+AdrenergicMax,Morphine,ND
+α1A; α1B,DMT,4
+α1A; α1B,DPT,3.83
+α1A; α1B,6-F-DMT,3.17
+α1A; α1B,lisuride,2.35
+α1A; α1B,LSD,1.67
+α1A; α1B,cis-2a,1.64
+α1A; α1B,DOM,1.56
+α1A; α1B,SS-2c,0.67
+α1A; α1B,RR-2b,0.59
+α1A; α1B,Mescaline,0
+α1A; α1B,DOI,0
+α1A; α1B,4C-T-2,0
+α1A; α1B,MDA,0
+α1A; α1B,TMA,0
+α1A; α1B,MDMA,0
+α1A; α1B,5-MeO-MIPT,0
+α1A; α1B,Aleph-2,0
+α1A; α1B,DIPT,0
+α1A; α1B,5-MeO-DIPT,0
+α1A; α1B,2C-T-2,0
+α1A; α1B,DOET,0
+α1A; α1B,DOB,0
+α1A; α1B,2C-B-fly,0
+α1A; α1B,5-MeO-DMT,0
+α1A; α1B,Psilocin,0
+α1A; α1B,MEM,0
+α1A; α1B,TMA-2,0
+α1A; α1B,2C-E,0
+α1A; α1B,2C-B,0
+α1A; α1B,Salvinorin A,0
+α1A; α1B,5-MeO-TMT,ND
+α1A; α1B,EMDT,ND
+α1A; α1B,Ibogaine,ND
+α1A; α1B,THC,ND
+α1A; α1B,Morphine,ND
+α1max,6-F-DMT,3.17
+α1max,DMT,2.95
+α1max,DPT,2.86
+α1max,lisuride,2.09
+α1max,cis-2a,1.64
+α1max,DOM,1.56
+α1max,LSD,1.54
+α1max,SS-2c,0.67
+α1max,RR-2b,0.59
+α1max,Mescaline,0
+α1max,DOI,0
+α1max,4C-T-2,0
+α1max,MDA,0
+α1max,TMA,0
+α1max,MDMA,0
+α1max,5-MeO-MIPT,0
+α1max,Aleph-2,0
+α1max,DIPT,0
+α1max,5-MeO-DIPT,0
+α1max,2C-T-2,0
+α1max,DOET,0
+α1max,DOB,0
+α1max,2C-B-fly,0
+α1max,5-MeO-DMT,0
+α1max,Psilocin,0
+α1max,MEM,0
+α1max,TMA-2,0
+α1max,2C-E,0
+α1max,2C-B,0
+α1max,Salvinorin A,0
+α1max,5-MeO-TMT,ND
+α1max,EMDT,ND
+α1max,Ibogaine,ND
+α1max,THC,ND
+α1max,Morphine,ND
+α2A; α2B; α2C,lisuride,6.3
+α2A; α2B; α2C,DOI,5.7
+α2A; α2B; α2C,DMT,5.7
+α2A; α2B; α2C,MDA,5.5
+α2A; α2B; α2C,MDMA,5.34
+α2A; α2B; α2C,2C-E,5.26
+α2A; α2B; α2C,DPT,4.97
+α2A; α2B; α2C,Mescaline,4.95
+α2A; α2B; α2C,2C-B,4.69
+α2A; α2B; α2C,TMA,4.49
+α2A; α2B; α2C,6-F-DMT,4.41
+α2A; α2B; α2C,5-MeO-MIPT,4.1
+α2A; α2B; α2C,DOM,3.78
+α2A; α2B; α2C,DIPT,3.75
+α2A; α2B; α2C,DOET,3.74
+α2A; α2B; α2C,2C-T-2,3.66
+α2A; α2B; α2C,5-MeO-DIPT,3.59
+α2A; α2B; α2C,2C-B-fly,2.66
+α2A; α2B; α2C,DOB,2.49
+α2A; α2B; α2C,Psilocin,2.32
+α2A; α2B; α2C,5-MeO-DMT,2.05
+α2A; α2B; α2C,Aleph-2,1.37
+α2A; α2B; α2C,4C-T-2,0
+α2A; α2B; α2C,MEM,0
+α2A; α2B; α2C,TMA-2,0
+α2A; α2B; α2C,cis-2a,ND
+α2A; α2B; α2C,LSD,ND
+α2A; α2B; α2C,SS-2c,ND
+α2A; α2B; α2C,RR-2b,ND
+α2A; α2B; α2C,Salvinorin A,ND
+α2A; α2B; α2C,5-MeO-TMT,ND
+α2A; α2B; α2C,EMDT,ND
+α2A; α2B; α2C,Ibogaine,ND
+α2A; α2B; α2C,THC,ND
+α2A; α2B; α2C,Morphine,ND
+α2max,Mescaline,4
+α2max,lisuride,3.88
+α2max,DOI,3.79
+α2max,MDA,3.6
+α2max,DMT,3.53
+α2max,2C-E,3.44
+α2max,TMA,3.36
+α2max,6-F-DMT,3.24
+α2max,MDMA,3.21
+α2max,2C-B,3.12
+α2max,DPT,2.97
+α2max,5-MeO-MIPT,2.85
+α2max,DIPT,2.68
+α2max,5-MeO-DIPT,2.66
+α2max,2C-T-2,2.56
+α2max,DOET,2.4
+α2max,DOM,2.3
+α2max,DOB,1.82
+α2max,2C-B-fly,1.79
+α2max,5-MeO-DMT,1.57
+α2max,Psilocin,1.57
+α2max,Aleph-2,1.06
+α2max,4C-T-2,0
+α2max,MEM,0
+α2max,TMA-2,0
+α2max,cis-2a,ND
+α2max,LSD,ND
+α2max,SS-2c,ND
+α2max,RR-2b,ND
+α2max,Salvinorin A,ND
+α2max,5-MeO-TMT,ND
+α2max,EMDT,ND
+α2max,Ibogaine,ND
+α2max,THC,ND
+α2max,Morphine,ND
+β1; β2,DOI,4.55
+β1; β2,4C-T-2,3.67
+β1; β2,DOM,3.38
+β1; β2,lisuride,3.21
+β1; β2,Aleph-2,2.81
+β1; β2,DOB,2.43
+β1; β2,DOET,2.29
+β1; β2,cis-2a,1.9
+β1; β2,2C-T-2,1.89
+β1; β2,SS-2c,1.82
+β1; β2,LSD,1.74
+β1; β2,Mescaline,0
+β1; β2,MDA,0
+β1; β2,DMT,0
+β1; β2,TMA,0
+β1; β2,6-F-DMT,0
+β1; β2,MDMA,0
+β1; β2,DPT,0
+β1; β2,5-MeO-MIPT,0
+β1; β2,DIPT,0
+β1; β2,5-MeO-DIPT,0
+β1; β2,2C-B-fly,0
+β1; β2,5-MeO-DMT,0
+β1; β2,Psilocin,0
+β1; β2,MEM,0
+β1; β2,TMA-2,0
+β1; β2,Salvinorin A,0
+β1; β2,2C-E,ND
+β1; β2,2C-B,ND
+β1; β2,RR-2b,ND
+β1; β2,5-MeO-TMT,ND
+β1; β2,EMDT,ND
+β1; β2,Ibogaine,ND
+β1; β2,THC,ND
+β1; β2,Morphine,ND
+βmax,4C-T-2,3.67
+βmax,DOI,3.52
+βmax,DOM,3.38
+βmax,Aleph-2,2.79
+βmax,lisuride,2.56
+βmax,DOB,2.11
+βmax,DOET,1.82
+βmax,cis-2a,1.76
+βmax,SS-2c,1.72
+βmax,2C-T-2,1.7
+βmax,LSD,1.39
+βmax,Mescaline,0
+βmax,MDA,0
+βmax,DMT,0
+βmax,TMA,0
+βmax,6-F-DMT,0
+βmax,MDMA,0
+βmax,DPT,0
+βmax,5-MeO-MIPT,0
+βmax,DIPT,0
+βmax,5-MeO-DIPT,0
+βmax,2C-B-fly,0
+βmax,5-MeO-DMT,0
+βmax,Psilocin,0
+βmax,MEM,0
+βmax,TMA-2,0
+βmax,Salvinorin A,0
+βmax,2C-E,ND
+βmax,2C-B,ND
+βmax,RR-2b,ND
+βmax,5-MeO-TMT,ND
+βmax,EMDT,ND
+βmax,Ibogaine,ND
+βmax,THC,ND
+βmax,Morphine,ND
+H1; H2,6-F-DMT,4.47
+H1; H2,DPT,3.41
+H1; H2,TMA-2,3.04
+H1; H2,DIPT,2.53
+H1; H2,DOI,2.42
+H1; H2,5-MeO-MIPT,1.41
+H1; H2,DOB,0.63
+H1; H2,2C-B-fly,0.19
+H1; H2,4C-T-2,0
+H1; H2,DOM,0
+H1; H2,Aleph-2,0
+H1; H2,DOET,0
+H1; H2,2C-T-2,0
+H1; H2,Mescaline,0
+H1; H2,TMA,0
+H1; H2,MDMA,0
+H1; H2,5-MeO-DIPT,0
+H1; H2,Psilocin,0
+H1; H2,MEM,0
+H1; H2,2C-E,0
+H1; H2,2C-B,0
+H1; H2,5-MeO-TMT,0
+H1; H2,EMDT,0
+H1; H2,lisuride,ND
+H1; H2,cis-2a,ND
+H1; H2,SS-2c,ND
+H1; H2,LSD,ND
+H1; H2,MDA,ND
+H1; H2,DMT,ND
+H1; H2,5-MeO-DMT,ND
+H1; H2,Salvinorin A,ND
+H1; H2,RR-2b,ND
+H1; H2,Ibogaine,ND
+H1; H2,THC,ND
+H1; H2,Morphine,ND
+Hmax,6-F-DMT,3.74
+Hmax,DPT,3.41
+Hmax,TMA-2,3.04
+Hmax,DIPT,2.53
+Hmax,DOI,2.42
+Hmax,5-MeO-MIPT,1.41
+Hmax,DOB,0.63
+Hmax,2C-B-fly,0.19
+Hmax,4C-T-2,0
+Hmax,DOM,0
+Hmax,Aleph-2,0
+Hmax,DOET,0
+Hmax,2C-T-2,0
+Hmax,Mescaline,0
+Hmax,TMA,0
+Hmax,MDMA,0
+Hmax,5-MeO-DIPT,0
+Hmax,Psilocin,0
+Hmax,MEM,0
+Hmax,2C-E,0
+Hmax,2C-B,0
+Hmax,5-MeO-TMT,0
+Hmax,EMDT,0
+Hmax,lisuride,ND
+Hmax,cis-2a,ND
+Hmax,SS-2c,ND
+Hmax,LSD,ND
+Hmax,MDA,ND
+Hmax,DMT,ND
+Hmax,5-MeO-DMT,ND
+Hmax,Salvinorin A,ND
+Hmax,RR-2b,ND
+Hmax,Ibogaine,ND
+Hmax,THC,ND
+Hmax,Morphine,ND
+σ1; σ2,TMA,5.58
+σ1; σ2,Ibogaine,4.74
+σ1; σ2,DIPT,3.87
+σ1; σ2,DPT,3.55
+σ1; σ2,5-MeO-DIPT,3.41
+σ1; σ2,4C-T-2,3.05
+σ1; σ2,DOI,2.42
+σ1; σ2,DMT,2.23
+σ1; σ2,6-F-DMT,2.21
+σ1; σ2,5-MeO-MIPT,2.13
+σ1; σ2,MEM,2.1
+σ1; σ2,Aleph-2,1.83
+σ1; σ2,DOET,1.66
+σ1; σ2,DOB,1.25
+σ1; σ2,2C-T-2,1.19
+σ1; σ2,2C-B-fly,0
+σ1; σ2,DOM,0
+σ1; σ2,Mescaline,0
+σ1; σ2,Psilocin,0
+σ1; σ2,2C-B,0
+σ1; σ2,5-MeO-DMT,0
+σ1; σ2,TMA-2,ND
+σ1; σ2,MDMA,ND
+σ1; σ2,2C-E,ND
+σ1; σ2,5-MeO-TMT,ND
+σ1; σ2,EMDT,ND
+σ1; σ2,lisuride,ND
+σ1; σ2,cis-2a,ND
+σ1; σ2,SS-2c,ND
+σ1; σ2,LSD,ND
+σ1; σ2,MDA,ND
+σ1; σ2,Salvinorin A,ND
+σ1; σ2,RR-2b,ND
+σ1; σ2,THC,ND
+σ1; σ2,Morphine,ND
+σmax,Ibogaine,4
+σmax,TMA,3.95
+σmax,4C-T-2,3.05
+σmax,DPT,2.9
+σmax,DIPT,2.83
+σmax,5-MeO-DIPT,2.64
+σmax,DMT,2.23
+σmax,5-MeO-MIPT,2.13
+σmax,MEM,2.1
+σmax,Aleph-2,1.83
+σmax,DOI,1.73
+σmax,6-F-DMT,1.57
+σmax,DOB,1.25
+σmax,2C-T-2,1.19
+σmax,DOET,1.18
+σmax,2C-B-fly,0
+σmax,DOM,0
+σmax,Mescaline,0
+σmax,Psilocin,0
+σmax,2C-B,0
+σmax,5-MeO-DMT,0
+σmax,TMA-2,ND
+σmax,MDMA,ND
+σmax,2C-E,ND
+σmax,5-MeO-TMT,ND
+σmax,EMDT,ND
+σmax,lisuride,ND
+σmax,cis-2a,ND
+σmax,SS-2c,ND
+σmax,LSD,ND
+σmax,MDA,ND
+σmax,Salvinorin A,ND
+σmax,RR-2b,ND
+σmax,THC,ND
+σmax,Morphine,ND
+M1; M2; M3; M4; M5,DOI,5.53
+M1; M2; M3; M4; M5,MDMA,4.67
+M1; M2; M3; M4; M5,2C-E,2.94
+M1; M2; M3; M4; M5,2C-B-fly,2.51
+M1; M2; M3; M4; M5,2C-T-2,2.51
+M1; M2; M3; M4; M5,2C-B,2.22
+M1; M2; M3; M4; M5,DOB,1.53
+M1; M2; M3; M4; M5,Aleph-2,0.97
+M1; M2; M3; M4; M5,4C-T-2,0
+M1; M2; M3; M4; M5,DPT,0
+M1; M2; M3; M4; M5,DIPT,0
+M1; M2; M3; M4; M5,5-MeO-DIPT,0
+M1; M2; M3; M4; M5,DMT,0
+M1; M2; M3; M4; M5,5-MeO-MIPT,0
+M1; M2; M3; M4; M5,MEM,0
+M1; M2; M3; M4; M5,6-F-DMT,0
+M1; M2; M3; M4; M5,Mescaline,0
+M1; M2; M3; M4; M5,5-MeO-DMT,0
+M1; M2; M3; M4; M5,lisuride,0
+M1; M2; M3; M4; M5,Salvinorin A,0
+M1; M2; M3; M4; M5,Ibogaine,ND
+M1; M2; M3; M4; M5,TMA,ND
+M1; M2; M3; M4; M5,DOET,ND
+M1; M2; M3; M4; M5,DOM,ND
+M1; M2; M3; M4; M5,Psilocin,ND
+M1; M2; M3; M4; M5,TMA-2,ND
+M1; M2; M3; M4; M5,5-MeO-TMT,ND
+M1; M2; M3; M4; M5,EMDT,ND
+M1; M2; M3; M4; M5,cis-2a,ND
+M1; M2; M3; M4; M5,SS-2c,ND
+M1; M2; M3; M4; M5,LSD,ND
+M1; M2; M3; M4; M5,MDA,ND
+M1; M2; M3; M4; M5,RR-2b,ND
+M1; M2; M3; M4; M5,THC,ND
+M1; M2; M3; M4; M5,Morphine,ND
+Mmax,MDMA,3.07
+Mmax,DOI,2.9
+Mmax,2C-B,2.22
+Mmax,2C-E,2.16
+Mmax,2C-T-2,1.94
+Mmax,DOB,1.53
+Mmax,2C-B-fly,1.42
+Mmax,Aleph-2,0.92
+Mmax,4C-T-2,0
+Mmax,DPT,0
+Mmax,DIPT,0
+Mmax,5-MeO-DIPT,0
+Mmax,DMT,0
+Mmax,5-MeO-MIPT,0
+Mmax,MEM,0
+Mmax,6-F-DMT,0
+Mmax,Mescaline,0
+Mmax,5-MeO-DMT,0
+Mmax,lisuride,0
+Mmax,Salvinorin A,0
+Mmax,Ibogaine,ND
+Mmax,TMA,ND
+Mmax,DOET,ND
+Mmax,DOM,ND
+Mmax,Psilocin,ND
+Mmax,TMA-2,ND
+Mmax,5-MeO-TMT,ND
+Mmax,EMDT,ND
+Mmax,cis-2a,ND
+Mmax,SS-2c,ND
+Mmax,LSD,ND
+Mmax,MDA,ND
+Mmax,RR-2b,ND
+Mmax,THC,ND
+Mmax,Morphine,ND
+SERT; DAT; NET,DPT,4.04
+SERT; DAT; NET,6-F-DMT,3.25
+SERT; DAT; NET,DIPT,2.98
+SERT; DAT; NET,DOI,2.83
+SERT; DAT; NET,5-MeO-DIPT,2.72
+SERT; DAT; NET,DMT,2.37
+SERT; DAT; NET,5-MeO-TMT,1.97
+SERT; DAT; NET,Psilocin,1.74
+SERT; DAT; NET,5-MeO-MIPT,1.28
+SERT; DAT; NET,5-MeO-DMT,1.27
+SERT; DAT; NET,Aleph-2,1.08
+SERT; DAT; NET,DOB,0.66
+SERT; DAT; NET,MDMA,0
+SERT; DAT; NET,2C-B,0
+SERT; DAT; NET,2C-E,0
+SERT; DAT; NET,2C-T-2,0
+SERT; DAT; NET,2C-B-fly,0
+SERT; DAT; NET,4C-T-2,0
+SERT; DAT; NET,MEM,0
+SERT; DAT; NET,Mescaline,0
+SERT; DAT; NET,lisuride,0
+SERT; DAT; NET,TMA,0
+SERT; DAT; NET,DOET,0
+SERT; DAT; NET,DOM,0
+SERT; DAT; NET,TMA-2,0
+SERT; DAT; NET,EMDT,0
+SERT; DAT; NET,cis-2a,0
+SERT; DAT; NET,SS-2c,0
+SERT; DAT; NET,LSD,0
+SERT; DAT; NET,MDA,0
+SERT; DAT; NET,RR-2b,0
+SERT; DAT; NET,Salvinorin A,ND
+SERT; DAT; NET,Ibogaine,ND
+SERT; DAT; NET,THC,ND
+SERT; DAT; NET,Morphine,ND
+TransporterMax,DPT,3.31
+TransporterMax,6-F-DMT,3.25
+TransporterMax,DIPT,2.98
+TransporterMax,DOI,2.83
+TransporterMax,5-MeO-DIPT,2.72
+TransporterMax,DMT,2.37
+TransporterMax,5-MeO-TMT,1.97
+TransporterMax,Psilocin,1.74
+TransporterMax,5-MeO-MIPT,1.28
+TransporterMax,Aleph-2,1.08
+TransporterMax,5-MeO-DMT,0.97
+TransporterMax,DOB,0.66
+TransporterMax,MDMA,0
+TransporterMax,2C-B,0
+TransporterMax,2C-E,0
+TransporterMax,2C-T-2,0
+TransporterMax,2C-B-fly,0
+TransporterMax,4C-T-2,0
+TransporterMax,MEM,0
+TransporterMax,Mescaline,0
+TransporterMax,lisuride,0
+TransporterMax,TMA,0
+TransporterMax,DOET,0
+TransporterMax,DOM,0
+TransporterMax,TMA-2,0
+TransporterMax,EMDT,0
+TransporterMax,cis-2a,0
+TransporterMax,SS-2c,0
+TransporterMax,LSD,0
+TransporterMax,MDA,0
+TransporterMax,RR-2b,0
+TransporterMax,Salvinorin A,ND
+TransporterMax,Ibogaine,ND
+TransporterMax,THC,ND
+TransporterMax,Morphine,ND
+DOR; KOR; MOR,Morphine,4.63
+DOR; KOR; MOR,Salvinorin A,4
+DOR; KOR; MOR,Ibogaine,3.93
+DOR; KOR; MOR,DPT,0
+DOR; KOR; MOR,DIPT,0
+DOR; KOR; MOR,DOI,0
+DOR; KOR; MOR,5-MeO-DIPT,0
+DOR; KOR; MOR,5-MeO-TMT,0
+DOR; KOR; MOR,Psilocin,0
+DOR; KOR; MOR,5-MeO-MIPT,0
+DOR; KOR; MOR,Aleph-2,0
+DOR; KOR; MOR,DOB,0
+DOR; KOR; MOR,2C-B,0
+DOR; KOR; MOR,2C-E,0
+DOR; KOR; MOR,2C-T-2,0
+DOR; KOR; MOR,2C-B-fly,0
+DOR; KOR; MOR,4C-T-2,0
+DOR; KOR; MOR,MEM,0
+DOR; KOR; MOR,Mescaline,0
+DOR; KOR; MOR,TMA,0
+DOR; KOR; MOR,DOET,0
+DOR; KOR; MOR,DOM,0
+DOR; KOR; MOR,EMDT,0
+DOR; KOR; MOR,cis-2a,0
+DOR; KOR; MOR,SS-2c,0
+DOR; KOR; MOR,LSD,0
+DOR; KOR; MOR,RR-2b,0
+DOR; KOR; MOR,6-F-DMT,ND
+DOR; KOR; MOR,DMT,ND
+DOR; KOR; MOR,5-MeO-DMT,ND
+DOR; KOR; MOR,MDMA,ND
+DOR; KOR; MOR,lisuride,ND
+DOR; KOR; MOR,TMA-2,ND
+DOR; KOR; MOR,MDA,ND
+DOR; KOR; MOR,THC,ND
+OpioidMax,Morphine,4
+OpioidMax,Salvinorin A,4
+OpioidMax,Ibogaine,2.88
+OpioidMax,DPT,0
+OpioidMax,DIPT,0
+OpioidMax,DOI,0
+OpioidMax,5-MeO-DIPT,0
+OpioidMax,5-MeO-TMT,0
+OpioidMax,Psilocin,0
+OpioidMax,5-MeO-MIPT,0
+OpioidMax,Aleph-2,0
+OpioidMax,DOB,0
+OpioidMax,2C-B,0
+OpioidMax,2C-E,0
+OpioidMax,2C-T-2,0
+OpioidMax,2C-B-fly,0
+OpioidMax,4C-T-2,0
+OpioidMax,MEM,0
+OpioidMax,Mescaline,0
+OpioidMax,TMA,0
+OpioidMax,DOET,0
+OpioidMax,DOM,0
+OpioidMax,EMDT,0
+OpioidMax,cis-2a,0
+OpioidMax,SS-2c,0
+OpioidMax,LSD,0
+OpioidMax,RR-2b,0
+OpioidMax,6-F-DMT,ND
+OpioidMax,DMT,ND
+OpioidMax,5-MeO-DMT,ND
+OpioidMax,MDMA,ND
+OpioidMax,lisuride,ND
+OpioidMax,TMA-2,ND
+OpioidMax,MDA,ND
+OpioidMax,THC,ND
+CB1; CB2,THC,5.5
+CB1; CB2,2C-B-fly,0
+CB1; CB2,DPT,0
+CB1; CB2,DIPT,0
+CB1; CB2,DOI,0
+CB1; CB2,5-MeO-DIPT,0
+CB1; CB2,Psilocin,0
+CB1; CB2,Aleph-2,0
+CB1; CB2,DOB,0
+CB1; CB2,2C-B,0
+CB1; CB2,2C-E,0
+CB1; CB2,2C-T-2,0
+CB1; CB2,4C-T-2,0
+CB1; CB2,MEM,0
+CB1; CB2,Mescaline,0
+CB1; CB2,TMA,0
+CB1; CB2,DOET,0
+CB1; CB2,DOM,0
+CB1; CB2,6-F-DMT,0
+CB1; CB2,DMT,0
+CB1; CB2,5-MeO-DMT,0
+CB1; CB2,lisuride,0
+CB1; CB2,MDA,0
+CB1; CB2,Morphine,ND
+CB1; CB2,Salvinorin A,ND
+CB1; CB2,Ibogaine,ND
+CB1; CB2,5-MeO-TMT
+CB1; CB2,5-MeO-MIPT,ND
+CB1; CB2,EMDT,ND
+CB1; CB2,cis-2a,ND
+CB1; CB2,SS-2c,ND
+CB1; CB2,LSD,ND
+CB1; CB2,RR-2b,ND
+CB1; CB2,MDMA,ND
+CB1; CB2,TMA-2,ND
